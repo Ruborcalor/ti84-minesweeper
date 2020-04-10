@@ -24,7 +24,9 @@ The most substantive of the listed games. Main program: MINE
 | LOSE     | Reveals all the mines and then wipes the board                                                                  |
 | END      | Displays end game statistics                                                                                    |
 
-Associated blog post.
+![Menu Screen](minesweeper/menu_screen.png) ![Loading Screen](minesweeper/loading_screen.png) ![Clear Multiple](minesweeper/clearMultiple.png) ![End game](minesweeper/endgame.png)
+
+Associated [blog post](https://colekillian.com/post/ti84-programming).
 
 ### Guessing Game
 
@@ -40,7 +42,7 @@ This program tries to act in stealth mode without the user noticing. There are t
 
 If you are very fast you can code and run these programs onto a friends calculator while they aren't paying attention.
 
-![Example of PRANK2 running](misc/prank.png)
+![Example of PRANK2 running](misc/prank2.png)
 
 ### Self Destruct
 
