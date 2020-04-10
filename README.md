@@ -32,7 +32,7 @@ Simple guessing game for a number between 1 and 10000 with a first place leader 
 
 Make sure to run GUESSSET after resetting calculator RAM to set variables.
 
-[Example of GUESS running](guessing_game/guess.png)
+![Example of GUESS running](guessing_game/guess.png)
 
 ### Prank
 
@@ -40,7 +40,7 @@ This program tries to act in stealth mode without the user noticing. There are t
 
 If you are very fast you can code and run these programs onto a friends calculator while they aren't paying attention.
 
-[Example of PRANK2 running](misc/prank.png)
+![Example of PRANK2 running](misc/prank.png)
 
 ### Self Destruct
 
@@ -50,4 +50,4 @@ I'll leave this for you to try out.
 
 Seems to correspond to some math equation, but I haven't been able to figure out which one.
 
-[Image of PE code](misc/pe.png)
+![Image of PE code](misc/pe.png)
