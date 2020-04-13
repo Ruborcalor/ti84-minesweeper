@@ -26,7 +26,7 @@ The most substantive of the listed games. Main program: MINE
 
 ![Menu Screen](minesweeper/menu_screen.png) ![Loading Screen](minesweeper/loading_screen.png) ![Clear Multiple](minesweeper/clearMultiple.png) ![End game](minesweeper/endgame.png)
 
-Associated [blog post](https://colekillian.com/post/ti84-programming).
+Associated [blog post](https://colekillian.com/post/ti84-programming) coming soon.
 
 ### Guessing Game
 
