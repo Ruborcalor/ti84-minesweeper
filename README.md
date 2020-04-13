@@ -4,7 +4,7 @@ Load some fun programs onto your ti84 plus CE!
 
 ## Usage
 
-* Clone the github repo onto your ti84 plus CE device, either physical or virtual. You can't actually use git from the calculator as far as I know of so you'll have to find a way to transfer the (TI-connect, EUcm, etc).
+* Clone the github repo onto your ti84 plus CE device, either physical or virtual. You can't actually use git from the calculator as far as I know of so you'll have to find a way to transfer the (TI-connect, CEmu, etc).
 * Make sure all the files are in the calculators RAM.
 * Start one of the main programs!
 
